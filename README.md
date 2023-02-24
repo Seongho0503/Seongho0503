@@ -5,13 +5,12 @@ Welcome to My Profile !
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=hi+!+My+Self+Sungho+%F0%9F%91%8B;I+am+a+Web+Front+Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;I+like+Nature+and+Travel++++;Addicted+to+Hacking+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Always+learning+new+things" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=hi+!+My+Self+Sungho+%F0%9F%91%8B;I+am+a+Web+Front+Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;I+like+Nature+and+Travel++++;Don't+be+afraid+of+change+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Always+learning+new+things" alt="Typing SVG" /></a>
 </p>
 
 <p align="left"> 
 Visitors count :
   <br>
-  <img src="https://profile-counter.glitch.me/atulchauhanrajput12/count.svg" /> <br>
    <img src="https://profile-counter.glitch.me/maystar8956/count.svg" /> <br>
 
 </p>
