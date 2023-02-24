@@ -13,7 +13,6 @@ Visitors count :
   <br>
   <img src="https://profile-counter.glitch.me/atulchauhanrajput12/count.svg" /> <br>
    <img src="https://profile-counter.glitch.me/maystar8956/count.svg" /> <br>
-   <img src="https://profile-counter.glitch.me/Seongho/count.svg" />
 
 </p>
 
