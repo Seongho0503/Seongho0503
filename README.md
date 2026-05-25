@@ -8,17 +8,10 @@ Welcome to My Profile !
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=hi+!+My+Self+Sungho+%F0%9F%91%8B;I+am+a+Web+Backend+Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;I+like+Nature+and+Travel++++;Don't+be+afraid+of+change+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Always+learning+new+things" alt="Typing SVG" /></a>
 </p>
 
-<p align="left"> 
-Visitors count :
-  <br>
-   <img src="https://profile-counter.glitch.me/maystar8956/count.svg" /> <br>
-
-</p>
 
 <br />
 
 - ☘️ &nbsp; I’m currently learning `Spring and Java`
-- 🤝 &nbsp; I’m looking forward to work in software industry 
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 
 
@@ -28,29 +21,37 @@ Visitors count :
 ### 👨‍💻 Programming languages
 
 <p>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajava"><img alt="JAVA" src="https://img.shields.io/badge/JAVA-%23777BB4.svg?logo=java&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
-
-### 🧰 Frameworks and libraries
-<img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
-<p>
- 
+    <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"></a>
+    <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"></a>
+    <a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL-%23025E8C.svg?style=for-the-badge&logo=mysql&logoColor=white"></a>
+    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
+    <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></a>
 </p>
 
+### 🧰 Frameworks and libraries
 
+<p>
+    <img alt="Spring" src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
+    <img alt="Spring Boot" src="https://img.shields.io/badge/SpringBoot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white">
+    <img alt="JSP" src="https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white">
+    <img alt="REST API" src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge">
+</p>
 
 ### 💻 Software and tools
 
 <p>
-    <a href="#"><img alt="Intelli" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"></a>
-    <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a> 
-    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"></a>
-    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"></a>
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a> 
+    <a href="#"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"></a>
+    <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
+    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"></a>
+    <a href="#"><img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D.svg?style=for-the-badge&logo=redis&logoColor=white"></a>
+    <a href="#"><img alt="Apache Kafka" src="https://img.shields.io/badge/Kafka-000000.svg?style=for-the-badge&logo=apachekafka&logoColor=white"></a>
+    <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white"></a>
+    <a href="#"><img alt="Apache Tomcat" src="https://img.shields.io/badge/Tomcat-F8DC75.svg?style=for-the-badge&logo=apachetomcat&logoColor=black"></a>
+    <a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white"></a>
+    <a href="#"><img alt="Naver Cloud" src="https://img.shields.io/badge/NaverCloud-03C75A.svg?style=for-the-badge&logo=naver&logoColor=white"></a>
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
+    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white"></a>
+    <a href="#"><img alt="VS Code" src="https://img.shields.io/badge/VSCode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white"></a>
 </p>
 
 <br />
